@@ -110,5 +110,5 @@ Anche in questo caso i dati cambiano in tempo reale a sensore attivo.
 
 # Con l'aiuto della tagliatrice laser abbiamo creato la scatola per il nostro progetto
 ![15](/IMAGE/15.png)
-![Sensori+LCD](/IMAGE/ProgettiScatola/Sensori+LCD.png)
+![Sensori+LCD](/IMAGE/ProgettiScatole/Sensori+LCD.png)
 
