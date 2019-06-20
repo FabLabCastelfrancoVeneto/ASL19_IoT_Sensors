@@ -102,7 +102,7 @@ Le &quot;feeds&quot; gestiscono la memorizzazione dei dati degli input e si occu
 
 #  3) Dashboards e visualizzazione finale dei dati
 ![11](/IMAGE/11.png)
-#
+
 
 Come potete vedere dall&#39;immagine sovrastante, tramite l&#39;utilizzo delle dashboards si è potuti ad arrivare ad un risultato grafico dei dati arrivati in input. Queste dashboards però non sono esportabili, e sono visibili soltanto nel caso in cui si è nella stessa wifi della raspberry e si ha l&#39;account ad emoncms relativo.
 
