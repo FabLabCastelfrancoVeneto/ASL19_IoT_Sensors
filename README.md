@@ -114,3 +114,7 @@ Anche in questo caso i dati cambiano in tempo reale a sensore attivo.
 ## ciaocomeva
 ![Sensori+LCD](/IMAGE/ProgettiScatole/Sensori+LCD.png)
 
+## ciaocomeva
+![SensoriMINI](/IMAGE/ProgettiScatole/SensoriMINI.png)
+
+
