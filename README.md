@@ -113,8 +113,9 @@ Anche in questo caso i dati cambiano in tempo reale a sensore attivo.
 
 ## Scatola contenente Arduino1 + Sensori + LCD 
 ![Sensori+LCD](/IMAGE/ProgettiScatole/Sensori+LCD.png)
+ Il progetto realizzato in InkScape si puo trovare all'interno della cartella ProgettoScatole Con nome "Sensori+LCD".
 
 ## Scatola contenente Wemos D1 Mini + Sensore Temperatura Umidità
 ![SensoriMINI](/IMAGE/ProgettiScatole/SensoriMINI.png)
-
+ Il progetto realizzato in InkScape si puo trovare all'interno della cartella ProgettoScatole Con nome "SensoriMINI".
 
